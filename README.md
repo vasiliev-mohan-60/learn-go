@@ -1,0 +1,2 @@
+# learn-go
+Random experiments
